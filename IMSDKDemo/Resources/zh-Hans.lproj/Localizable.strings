@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  IMSDKDemo
+
+  Created by jack on 13-12-17.
+  Copyright (c) 2013年 appkefu.com. All rights reserved.
+*/
+
+"language" ="中文";
+"speak"="请讲话";
+
+
